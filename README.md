@@ -11,3 +11,6 @@ Este projeto desenvolveu um código para controlar o movimento de um robô do mo
 O código inclui funcionalidades de pausa e retoma, aumentando a flexibilidade durante a operação. Os resultados demonstram a viabilidade da utilização de visão computacional e aprendizagem automática no controlo eficiente de robôs.
 
 A tecnologia desenvolvida apresenta diversas aplicações na área industrial, incluindo montagem automatizada, manipulação de materiais, inspeção de qualidade e operações em ambientes perigosos ou de difícil acesso para os seres humanos. O controlo intuitivo e preciso de robôs pode melhorar significativamente a eficiência e a segurança nas linhas de produção, além de alargar as possibilidades de automação em setores como a indústria transformadora, a logística e a manutenção industrial.
+
+
+<img width="1229" height="825" alt="hand-tracking-robot" src="https://github.com/user-attachments/assets/3791042f-a511-4a40-a28c-9763571fe0dc" />
